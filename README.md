@@ -84,7 +84,6 @@ https://github.com/Toshitabendale06/html-ec2-project/blob/main/output.png
 ## 🎥 Video Demonstration
 
 [Click here to watch the video] https://github.com/Toshitabendale06/html-ec2-project/blob/main/toshitarecording-cloud-ec2_nmQyngmg.mp4  
-*(Attach or upload your screen recording video here)*
 
 ---
 
